@@ -28,8 +28,8 @@ Hiding sensitive data in python scripts.
 
 Contributors names and contact info
 
-ex. rosilva
-ex. rogeriocarvalho383@gmail.com
+ rosilva
+ rogeriocarvalho383@gmail.com
 
 ## Version History
 
